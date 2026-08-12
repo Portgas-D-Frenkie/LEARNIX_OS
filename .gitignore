@@ -1,14 +1,14 @@
-# Archivos objeto y binarios compilados
+# Artefactos de compilación
 *.o
 *.bin
 *.elf
 *.iso
-disk.img
 
-# Logs y salidas de prueba
-qemu.log
-output.txt
-*.bak
+# disk.img NO se ignora: es entrada necesaria para bootear
 
-# Carpeta de la ISO generada
-iso/
+# Basura del editor / sistema
+*.swp
+*~
+.vscode/
+.idea/
+.DS_Store
