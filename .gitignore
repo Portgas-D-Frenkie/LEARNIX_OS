@@ -1,0 +1,14 @@
+# Archivos objeto y binarios compilados
+*.o
+*.bin
+*.elf
+*.iso
+disk.img
+
+# Logs y salidas de prueba
+qemu.log
+output.txt
+*.bak
+
+# Carpeta de la ISO generada
+iso/
