@@ -6,10 +6,28 @@ en C y ensamblador como parte del curso de Sistemas Operativos.
 **Universidad Nacional de San Antonio Abad del Cusco** · Ingeniería Informática · 2026-I
 
 ---
-## Autores: 
+## Autores
 
 - MAMANI CONDORI, Franklin Gilberto
-- TTITO HUAMAN, Jack ELiezer 
+- TTITO HUAMÁN, Jack Eliezer
+
+---
+
+## Descarga rápida
+
+Si solo quieres probar el sistema sin compilarlo, descarga `learnix.iso` desde la
+[última release](https://github.com/Portgas-D-Frenkie/LEARNIX_OS/releases/latest) y ejecútala:
+
+```bash
+qemu-system-x86_64 -cdrom learnix.iso
+```
+
+## Clonar el repositorio
+
+```bash
+git clone https://github.com/Portgas-D-Frenkie/LEARNIX_OS.git
+cd LEARNIX_OS
+```
 
 ---
 
@@ -370,3 +388,9 @@ El contador de ticks se mantiene solo en memoria.
 - Tanenbaum, A. S. y Bos, H. *Sistemas operativos modernos* (4.ª ed.). Pearson, 2015.
 - Silberschatz, A., Galvin, P. B. y Gagne, G. *Fundamentos de sistemas operativos*
   (9.ª ed.). McGraw-Hill, 2018.
+
+---
+
+## Licencia
+
+Distribuido bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
