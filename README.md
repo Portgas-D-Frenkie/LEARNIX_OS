@@ -394,3 +394,14 @@ El contador de ticks se mantiene solo en memoria.
 ## Licencia
 
 Distribuido bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+## Documentación técnica
+
+Informe completo del proyecto: diseño del bloque de control de procesos, cambio de
+contexto, planificador con prioridades, driver ATA, sistema de archivos FAT16 y
+cargador de ejecutables ELF.
+
+- [Ver en PDF](SO_2026I_Mamani_Ttito_DocumentacionLearnix/SO_2026I_Mamani_Ttito_DocumentacionLearnix.pdf) — se abre directamente en el navegador
+- [Descargar en Word](SO_2026I_Mamani_Ttito_DocumentacionLearnix/SO_2026I_Mamani_Ttito_DocumentacionLearnix.docx) — versión editable
